@@ -1,8 +1,8 @@
 ## Introduction
 
-It's Burger Builder Application where user can build is desired burger price of burger will be calculated based on the burger ingredients and then user can place order and track his orders after sigining into the system
+It's Burger Builder Application where the user can build his desired burger price of the burger will be calculated based on the burger ingredients and then the user can place an order and track his orders after signing into the system.
 
-https://react-burger-app-zee.web.app/
+react-burger-builder-app-demo.web.app
 
 ## Available Scripts
 
