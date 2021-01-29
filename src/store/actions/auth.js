@@ -52,7 +52,7 @@ export const auth = ( email, password, isSignup ) => {
             returnSecureToken: true
         }
         let method =  isSignup ? 'signUp' : 'signInWithPassword'
-        let url = `https://identitytoolkit.googleapis.com/v1/accounts:${method}?key=AIzaSyCOdd7pahIdmRJmhq4GtwZPkwxf1F_ExTU`
+        let url = `https://identitytoolkit.googleapis.com/v1/accounts:${method}?key=AIzaSyDuzvA1BJrSiJ_TclWQgc3jwS_Q8Brhc6c`
         axios.post(url, authData)
                 .then( res => {
                     // console.log(res.data);
